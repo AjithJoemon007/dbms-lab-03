@@ -9,7 +9,7 @@
 
 ## Project Description
 
-The Hostel Room Allotment System is a PHP and MySQL-based web application designed to register students and manage hostel room allotments. It allows users to enter new student details, select available rooms, and track room capacity. The system also generates an allotment report using database JOIN operations.
+The Hostel Room Allotment System is a PHP and MySQL-based web application designed to register students and manage hostel room allotments. It allows users to enter new student details, select available rooms and track room capacity. The system also generates an allotment report using database JOIN operations.
 
 ## Technologies Used
 
